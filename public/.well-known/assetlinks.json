@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.sicad.app",
+        "sha256_cert_fingerprints": ["9B:7B:B4:9B:96:7A:FD:D3:44:C6:FE:F6:2C:E7:D3:7F:FF:67:5E:C2:43:78:AA:47:0A:93:3C:DC:F0:93:17:44"]
+      }
+    }]
